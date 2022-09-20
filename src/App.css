@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.product {
+  color: rosybrown;
+  background-color: aliceblue;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid green;
+  border-radius: 10px;
 }
